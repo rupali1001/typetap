@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+.test-container {
+    background-color: #fff;
+    margin: 64px 0;
+    width: 80%;
+    min-height: 50%;
+    /* min-height: 750px; */
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.try-again-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+}
