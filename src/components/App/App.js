@@ -154,7 +154,7 @@ class App extends React.Component {
                     wpm={this.state.wpm}
                     startAgain={this.startAgain}
                 />
-                <button onClick={()=> this.startAgain()}>zzz</button>
+                <button onClick={()=> this.startAgain()}>Retry/button>
                 {/*Footer*/}
                 <Footer />
             </div>
