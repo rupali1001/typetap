@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/typetap/static/css/main.96ff2957.chunk.css",
-    "main.js": "/typetap/static/js/main.e04e0709.chunk.js",
-    "main.js.map": "/typetap/static/js/main.e04e0709.chunk.js.map",
+    "main.js": "/typetap/static/js/main.886f9a4f.chunk.js",
+    "main.js.map": "/typetap/static/js/main.886f9a4f.chunk.js.map",
     "runtime-main.js": "/typetap/static/js/runtime-main.8249a18e.js",
     "runtime-main.js.map": "/typetap/static/js/runtime-main.8249a18e.js.map",
     "static/js/2.a1e674e9.chunk.js": "/typetap/static/js/2.a1e674e9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8249a18e.js",
     "static/js/2.a1e674e9.chunk.js",
     "static/css/main.96ff2957.chunk.css",
-    "static/js/main.e04e0709.chunk.js"
+    "static/js/main.886f9a4f.chunk.js"
   ]
 }
